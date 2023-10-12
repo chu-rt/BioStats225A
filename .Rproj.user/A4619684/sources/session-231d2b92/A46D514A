@@ -1,0 +1,28 @@
+{
+    "id": "A46D514A",
+    "path": "~/Documents/GitHub/BioStats225A/src/20231012workshop.Rmd",
+    "project_path": "src/20231012workshop.Rmd",
+    "type": "r_markdown",
+    "hash": "11129208",
+    "contents": "",
+    "dirty": false,
+    "created": 1697146168561.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "41,18",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1697151343,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1697151343905,
+    "read_only": false,
+    "read_only_alternatives": []
+}
